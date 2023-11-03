@@ -1,4 +1,4 @@
-# Hi, I'm [Wajdi Ben Moumen] 👋
+# Hi, I'm Wajdi Ben Moumen 👋
 
 I'm a Mobile App Developer and Software Engineering Student based in [Djerba, Medenine, Tunisia]. Welcome to my GitHub profile!
 
