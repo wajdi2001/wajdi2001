@@ -7,7 +7,9 @@ I'm a Mobile App Developer and Software Engineering Student based in [Djerba, Me
 - 📱 Mobile App Developer passionate about creating elegant and user-friendly apps for both Android and iOS platforms.
 - 🎓 Currently pursuing a Software Engineering degree with a focus on mobile app development.
 - 🔍 Always eager to explore new technologies and learn the latest trends in software development.
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wajdi2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 ## What I Do
 
 - 📚 As a software engineering student, I'm constantly learning and applying theory to real-world projects.
@@ -32,6 +34,8 @@ Here are some of my featured projects:
 <a href="https://fb.com/tenzo.bm.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tenzo.bm.3" height="30" width="40" /></a>
 <a href="https://instagram.com/wajdi_2k01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wajdi_2k01" height="30" width="40" /></a>
 </p>
+
+<br clear="both">
 
 
 Feel free to explore my repositories and give them a star ⭐ if you find something interesting!
