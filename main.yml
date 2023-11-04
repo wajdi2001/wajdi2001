@@ -1,4 +1,4 @@
-name: Generate Datas
+name: github_user_name: {{wajdi2001}}
 
 on:
   schedule: # execute every 12 hours
