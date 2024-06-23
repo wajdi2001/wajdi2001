@@ -24,9 +24,15 @@ Here are some of my featured projects:
   This app offers user authentication, product catalog, shopping cart, 
   and order management. Built with the BLoC pattern for organized 
   and efficient state management.
-
-
-
+### [Foodini app]
+Flutter Foodini App with BLoC
+User-friendly interface for placing orders
+Table reservations
+Real-time tracking of delivery status
+### [Foodini Delivery]
+Flutter Foodini Delivery App with BLoC
+Real-time management and tracking of deliveries
+Communication with customers and restaurants
 ## Let's Connect
 
 <p align="left">
