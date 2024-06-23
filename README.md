@@ -24,12 +24,12 @@ Here are some of my featured projects:
   This app offers user authentication, product catalog, shopping cart, 
   and order management. Built with the BLoC pattern for organized 
   and efficient state management.
-### [Foodini app]
+### [Foodini app](https://github.com/wajdi2001/food_app)
 Flutter Foodini App with BLoC
 User-friendly interface for placing orders
 Table reservations
 Real-time tracking of delivery status
-### [Foodini Delivery]
+### [Foodini Delivery](https://github.com/wajdi2001/delivery_foodini)
 Flutter Foodini Delivery App with BLoC
 Real-time management and tracking of deliveries
 Communication with customers and restaurants
