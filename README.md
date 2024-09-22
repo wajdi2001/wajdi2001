@@ -8,7 +8,7 @@ I'm a Mobile App Developer and Software Engineering Student based in [Djerba, Me
 - 🎓 Currently pursuing a Software Engineering degree with a focus on mobile app development.
 - 🔍 Always eager to explore new technologies and learn the latest trends in software development.
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wajdi2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wajdi2001&layout=compact" height="150" alt="languages graph"  />
 </div>
 ## What I Do
 
